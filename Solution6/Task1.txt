@@ -1,0 +1,15 @@
+Task1:
+
+1-The Average degree = (3*6 + 5*2)/8 = 3.5
+
+2-The Clustering coefficient:
+
+C(v)= number of connected pairs of v’s neighbours/ number of pairs of v’s neighbours
+
+C(v)=(2/3 + 2/5 + 1/3 + 1/3 + 0 + 2/3 + 1/3 + 2/5)/8 = 0.39
+
+3-The average path length = (1*14 + 2*14)/28 = 1.5 where 28 is the total
+number of pairs of vertices.
+
+
+
